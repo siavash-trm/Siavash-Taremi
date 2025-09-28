@@ -35,4 +35,4 @@ A multimodal deep learning framework that includes:
 
 🧾 [ORCID](https://orcid.org/0009-0001-1619-5039)
 
-✉️ E-mail : siavash.tami@gmail.com
+✉️ Email : siavash.tami@gmail.com
