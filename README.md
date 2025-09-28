@@ -31,8 +31,8 @@ A multimodal deep learning framework that includes:
 
 # 🔗 Connect with me :
 
-🌐 [Google Scholar](https://scholar.google.com/citations?user=jAwTGo4AAAAJ&hl=fa).
+🌐 [Google Scholar](https://scholar.google.com/citations?user=jAwTGo4AAAAJ&hl=fa)
 
-🧾 [ORCID](https://orcid.org/0009-0001-1619-5039).
+🧾 [ORCID](https://orcid.org/0009-0001-1619-5039)
 
 ✉️ E-mail : siavash.tami@gmail.com
