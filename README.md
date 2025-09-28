@@ -7,29 +7,27 @@ Hi, I’m Siavash Taremi, a medical doctor and AI researcher investigate the sta
 
 🤖 Agentic systems for radiology – integrating segmentation, reporting, and treatment recommendation
 
-# 🚀 Featured Projects : 
+## 🔗 Featured Project
 
-🔹 Radiology-Agentic-System
+### **Radiology-Agentic-System**  
+A multimodal deep learning framework that includes:
 
-A multimodal deep learning framework for:
+- **3D Glioma Segmentation** using MRI (multi-sequence input)  
+- **Automated Radiology Report Generation**  
+- **Radiogenomic Analysis & Treatment Planning**
 
-1-3D glioma segmentation 
 
-2-Automated radiology report generation
+[Project code ↗️](https://github.com/siavash-trm/Radiology-Agentic-System)  
 
-3-Radiogenomic analysis & treatment planning
-# 🛠️ Tech Stack :
+## 🛠️ Tech Stack
 
-Languages: Python 
-
-Deep Learning: TensorFlow, Keras, PyTorch
-
-Medical Imaging: NiBabel, SimpleITK 
-
-Data Science: Pandas, NumPy, Scikit-learn
-
-Visualization: Matplotlib, ITK-SNAP
-
+| Area | Tools / Libraries |
+|---|---|
+| Languages | Python |
+| Deep Learning | PyTorch, TensorFlow, Keras |
+| Medical Imaging | NiBabel, SimpleITK, MONAI |
+| Data Science & Utilities | Pandas, NumPy, Scikit-learn |
+| Visualization & Annotation | Matplotlib, ITK-SNAP, Plotly |
 
 # 🔗 Connect with me :
 
