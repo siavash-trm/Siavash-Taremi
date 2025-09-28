@@ -25,14 +25,14 @@ A multimodal deep learning framework that includes:
 |---|---|
 | Languages | Python |
 | Deep Learning | PyTorch, TensorFlow, Keras |
-| Medical Imaging | NiBabel, SimpleITK, MONAI |
+| Medical Imaging | NiBabel, SimpleITK |
 | Data Science & Utilities | Pandas, NumPy, Scikit-learn |
-| Visualization & Annotation | Matplotlib, ITK-SNAP, Plotly |
+| Visualization & Annotation | Matplotlib, ITK-SNAP |
 
 # 🔗 Connect with me :
 
-🌐 Google Scholar : https://scholar.google.com/citations?user=jAwTGo4AAAAJ&hl=fa
+🌐 [Google Scholar](https://scholar.google.com/citations?user=jAwTGo4AAAAJ&hl=fa).
 
-🧾 ORCID : https://orcid.org/0009-0001-1619-5039
+🧾 [ORCID](https://orcid.org/0009-0001-1619-5039).
 
-✉️ Email : siavash.tami@gmail.com
+✉️ E-mail : siavash.tami@gmail.com
