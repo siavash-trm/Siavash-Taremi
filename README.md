@@ -1,4 +1,6 @@
 # 🧑‍⚕️ Siavash Taremi – Medical Doctor & AI Researcher :
+
+![Alt text](https://github.com/siavash-trm/siavash-trm/blob/main/github-header-banner.png)
 Hi, I’m Siavash Taremi, a medical doctor and AI researcher investigate the state of the art deep learning methods to address challenges in current AI and radiology methods . My work bridges clinical medicine with AI , focusing on:
 
 🧠 Medical image segmentation
